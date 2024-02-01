@@ -1,0 +1,8 @@
+{
+  "name": "Magic_Card",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
